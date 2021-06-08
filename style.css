@@ -17,4 +17,6 @@ body{
     background-color: cyan;
     text-align: center;
     }
-    
+    canvas{
+        margin-top: 150px;
+    }
